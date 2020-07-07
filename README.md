@@ -21,6 +21,6 @@ Create a TODO application:
 
 Use these for reference:
 
-[![N|Solid](https://i.imgur.com/Y2x2BZz.png)
-[![N|Solid](https://i.imgur.com/ORW7vwx.png)
-[![N|Solid](https://i.imgur.com/NfOr1Zc.png)
+![N|Solid](https://i.imgur.com/Y2x2BZz.png)
+![N|Solid](https://i.imgur.com/ORW7vwx.png)
+![N|Solid](https://i.imgur.com/NfOr1Zc.png)
